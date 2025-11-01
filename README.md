@@ -10,8 +10,8 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│                    Cobalt Strike Beacon                       │
-│                    (Parent Process)                           │
+│                    Cobalt Strike Beacon                      │
+│                    (Parent Process)                          │
 └────────────────────────┬─────────────────────────────────────┘
                          │
                          │ beacon_inline_execute()
